@@ -22,7 +22,7 @@ Dilate the image
  
 ## Program:
 ```
-Name : 212223230188
+Name : SANJAY V
 Reg no : 212223230188
 
 ```
