@@ -24,6 +24,8 @@ Dilate the image
 ```
 Name : 212223230188
 Reg no : 212223230188
+
+```
 ``` Python
 import numpy as np
 import cv2
