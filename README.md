@@ -50,13 +50,16 @@ display_img(dilution)
 ## Output:
 
 ### Display the input Image
-![alt text](image.png)
+<img width="801" height="764" alt="image" src="https://github.com/user-attachments/assets/9e3a7ec3-35a2-42ec-a70c-90f8752cdbe0" />
+
 
 ### Display the Eroded Image
-![alt text](image-1.png)
+<img width="805" height="769" alt="image" src="https://github.com/user-attachments/assets/95e1d167-9f13-4cd8-aaeb-e1697a7ec7d2" />
+
 
 ### Display the Dilated Image
-![alt text](image-2.png)
+<img width="804" height="775" alt="image" src="https://github.com/user-attachments/assets/c34067e2-d76b-4db5-8be6-249de6b7a260" />
+
 
 
 ## Result
